@@ -1,6 +1,7 @@
 README
 -------
-Argent eye 3D Printable camera made by Damien A.W. Humby
+Argent eye 3D Printable camera made by Damien A.W. Humby.
+Github: https://github.com/DamienHazard/Argent-eye
 
 This project is currently in it's beta phase. This is not a final/optimal product.
 Please only print this if you're prepared to test it and troubleshoot. 
