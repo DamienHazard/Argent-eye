@@ -10,6 +10,9 @@ Please report any issues on github and feel free to join my discord at to share 
 If you want to support the project I have a patreon: https://www.patreon.com/Hazard
 If you prefer to donate through other channels I have a Paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YAQUE44D32B9G&source=url
 
+Telling others about the project is also a good way of supporting the project and taking part of it also helps immensely. 
+
+
 LICENSE
 ------
 
