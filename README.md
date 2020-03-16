@@ -8,7 +8,7 @@ Please only print this if you're prepared to test it and troubleshoot.
 Please report any issues on github and feel free to join my discord at to share ideas or to discuss the design: https://discord.gg/pZJWvrY
 
 If you want to support the project I have a patreon: https://www.patreon.com/Hazard
-If you prefer to donate through other channels I have a Paypal: 
+If you prefer to donate through other channels I have a Paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YAQUE44D32B9G&source=url
 
 LICENSE
 ------
