@@ -9,6 +9,9 @@ Please report any issues on github and feel free to join my discord at to share 
 
 in order to be able to use the camera, please check out the "BOM" below. 
 
+IMPORTANT : The camera needs a mamiya press lens, M-adapter and rollfilm back to be used.
+------
+
 LICENSE
 ------
 
