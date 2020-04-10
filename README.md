@@ -16,15 +16,12 @@ Please only print this if you're prepared to test it and troubleshoot.
 Please report any issues on github and feel free to join my discord at to share ideas or to discuss the design: https://discord.gg/pZJWvrY
 
 in order to be able to use the camera, please check out the Instruction sheet.
+
 Social
 ------
 If you share your builds on instagram or twitter, be sure to use the #HumbyProductdesign or #Humbyargenteye hashtags so people can see the wide range of builds out there.(and for proper attribution, you know)
 
-LICENSE
-------
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
-To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 IMPORTANT : The camera needs a mamiya press lens, M-adapter and rollfilm back to be used.
 ------
