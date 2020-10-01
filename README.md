@@ -39,6 +39,10 @@ V1.0 Pre_release
    - Added New flange lock
    - Added extra inserts for grip/accessory mounting
    - Redesigned Adapter locks
+   
+v.1.1
+   - Added new grips with better ergonomics.
+   - Added community mod of the  new grips with an extra holes. (QoL mod by Kitingmare)
  
 
 BOM links
